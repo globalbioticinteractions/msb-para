@@ -1,5 +1,7 @@
-{
-  "format": "dwca", 
-  "citation": "The MSB Division of Parasitology Collection",
-  "url": "http://ipt.vertnet.org:8080/ipt/archive.do?r=msb_para" 
+{ 
+  "format": "rss",
+  "citation": "Museum for Southern Biology (MSB) Parasite Collection",
+  "url": "rss.xml",
+  "hasDependencies": true,
+  "shouldResolveReferences": false
 }
