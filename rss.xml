@@ -62,6 +62,18 @@
             <!-- category used to indicate that an item is a dependency and should used to resolve linked content, and not as a source of interaction data -->
             <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
+        <item>
+          <title>MSB Fish Collection (Arctos)</title>
+          <link>http://ipt.vertnet.org:8080/ipt/resource?r=msb_fish</link>
+          <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+          <description>Updated database links</description>
+          <author>dbloom@vertnet.org (David Bloom)</author>
+          <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=msb_fish</ipt:eml>
+          <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=msb_fish</ipt:dwca>
+          <pubDate>Thu, 29 Apr 2021 16:21:12 +0000</pubDate>
+          <guid isPermaLink="false">a2254f58-8bbf-41e6-ac4e-03d1683e0ce5/v1.32</guid>
+          <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
+        </item>
 
         <item>
           <!-- this is a dependency of the main dataset -->
