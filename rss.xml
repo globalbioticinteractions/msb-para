@@ -215,6 +215,19 @@
           <!-- category used to indicate that an item is a dependency and should used to resolve linked content, and not as a source of interaction data -->
           <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
+        <item>
+          <title>NMNH Extant Specimen Records - Version 1.43</title>
+          <link>https://collections.nmnh.si.edu/ipt/resource?r=nmnh_extant_dwc-a</link>
+          <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+          <description>Addition of AudubonCore Rights and Usage information.</description>
+          <author>hollowellt@si.edu (Tom Hollowell)</author>
+          <ipt:eml>https://collections.nmnh.si.edu/ipt/eml.do?r=nmnh_extant_dwc-a</ipt:eml>
+          <ipt:dwca>https://collections.nmnh.si.edu/ipt/archive.do?r=nmnh_extant_dwc-a</ipt:dwca>
+          <pubDate>Wed, 28 Apr 2021 05:11:42 -0400</pubDate>
+          <guid isPermaLink="false">821cc27a-e3bb-4bc5-ac34-89ada245069d/v1.43</guid>
+          <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
+        </item>
+
     </channel>
 </rss>
 
