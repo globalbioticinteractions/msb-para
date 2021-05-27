@@ -216,7 +216,7 @@
           <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
         <item>
-          <title>NMNH Extant Specimen Records - Version 1.43</title>
+          <title>NMNH Extant Specimen Records</title>
           <link>https://collections.nmnh.si.edu/ipt/resource?r=nmnh_extant_dwc-a</link>
           <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
           <description>Addition of AudubonCore Rights and Usage information.</description>
