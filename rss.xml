@@ -32,7 +32,7 @@
             <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=msb_para</ipt:eml>
             <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=msb_para</ipt:dwca>
             <pubDate>Mon, 17 Feb 2020 17:40:30 +0000</pubDate>
-            <guid isPermaLink="false">78ff8409-15b9-456f-9793-291b030190a7/v32.36</guid>
+            <guid isPermaLink="false">78ff8409-15b9-456f-9793-291b030190a7</guid>
         </item>
         <item>
             <!-- this is a dependency of the main dataset -->
@@ -44,13 +44,13 @@
             <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=msb_host</ipt:eml>
             <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=msb_host</ipt:dwca>
             <pubDate>Mon, 17 Feb 2020 17:39:49 +0000</pubDate>
-            <guid isPermaLink="false">b211f32f-326b-43d3-8012-2fbce0cc6dcc/v34.35</guid>
+            <guid isPermaLink="false">b211f32f-326b-43d3-8012-2fbce0cc6dcc</guid>
             <!-- category used to indicate that an item is a dependency and should used to resolve linked content, and not as a source of interaction data -->
             <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
         <item>
             <!-- this is a dependency of the main dataset -->
-            <title>MSB Mammal Collection (Arctos) - Version 35.50</title>
+            <title>MSB Mammal Collection (Arctos)</title>
             <link>http://ipt.vertnet.org:8080/ipt/resource?r=msb_mamm</link>
             <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
             <description>Updated metadata</description>
@@ -58,7 +58,7 @@
             <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=msb_mamm</ipt:eml>
             <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=msb_mamm</ipt:dwca>
             <pubDate>Mon, 03 May 2021 18:48:12 +0000</pubDate>
-            <guid isPermaLink="false">b15d4952-7d20-46f1-8a3e-556a512b04c5/v35.50</guid>
+            <guid isPermaLink="false">b15d4952-7d20-46f1-8a3e-556a512b04c5</guid>
             <!-- category used to indicate that an item is a dependency and should used to resolve linked content, and not as a source of interaction data -->
             <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
@@ -71,7 +71,7 @@
           <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=msb_fish</ipt:eml>
           <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=msb_fish</ipt:dwca>
           <pubDate>Thu, 29 Apr 2021 16:21:12 +0000</pubDate>
-          <guid isPermaLink="false">a2254f58-8bbf-41e6-ac4e-03d1683e0ce5/v1.32</guid>
+          <guid isPermaLink="false">a2254f58-8bbf-41e6-ac4e-03d1683e0ce5</guid>
           <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
 
@@ -85,7 +85,7 @@
           <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=uam_mamm</ipt:eml>
           <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=uam_mamm</ipt:dwca>
           <pubDate>Thu, 29 Apr 2021 00:50:43 +0000</pubDate>
-          <guid isPermaLink="false">377be098-626f-4cc2-b4b5-35700050669a/v34.49</guid>
+          <guid isPermaLink="false">377be098-626f-4cc2-b4b5-35700050669a</guid>
           <!-- category used to indicate that an item is a dependency and should used to resolve linked content, and not as a source of interaction data -->
           <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
@@ -99,7 +99,7 @@
           <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=cumv_mamm</ipt:eml>
           <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=cumv_mamm</ipt:dwca>
           <pubDate>Thu, 19 Jul 2018 23:50:36 +0000</pubDate>
-          <guid isPermaLink="false">35720b3e-aded-4b83-b4f1-967f1d457d6a/v27.17</guid>
+          <guid isPermaLink="false">35720b3e-aded-4b83-b4f1-967f1d457d6a</guid>
           <!-- category used to indicate that an item is a dependency and should used to resolve linked content, and not as a source of interaction data -->
           <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
@@ -113,7 +113,7 @@
           <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=msb_bird</ipt:eml>
           <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=msb_bird</ipt:dwca>
           <pubDate>Thu, 29 Apr 2021 16:55:19 +0000</pubDate>
-          <guid isPermaLink="false">c9076cd3-349f-4068-a5c7-bc34449c3916/v35.52</guid>
+          <guid isPermaLink="false">c9076cd3-349f-4068-a5c7-bc34449c3916</guid>
           <!-- category used to indicate that an item is a dependency and should used to resolve linked content, and not as a source of interaction data -->
           <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
@@ -127,7 +127,7 @@
           <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=umnh_mammals</ipt:eml>
           <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=umnh_mammals</ipt:dwca>
           <pubDate>Thu, 29 Apr 2021 19:36:44 +0000</pubDate>
-          <guid isPermaLink="false">06a00852-f764-4fb8-80d4-ca51f0918459/v2.45</guid>
+          <guid isPermaLink="false">06a00852-f764-4fb8-80d4-ca51f0918459</guid>
           <!-- category used to indicate that an item is a dependency and should used to resolve linked content, and not as a source of interaction data -->
           <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
@@ -141,7 +141,7 @@
           <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=uam_ento</ipt:eml>
           <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=uam_ento</ipt:dwca>
           <pubDate>Thu, 29 Apr 2021 00:17:14 +0000</pubDate>
-          <guid isPermaLink="false">8044ee43-c5fe-44da-ad96-cc1a9cfb91ba/v39.50</guid>
+          <guid isPermaLink="false">8044ee43-c5fe-44da-ad96-cc1a9cfb91ba</guid>
           <!-- category used to indicate that an item is a dependency and should used to resolve linked content, and not as a source of interaction data -->
           <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
@@ -155,7 +155,7 @@
           <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=nmu_mamm</ipt:eml>
           <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=nmu_mamm</ipt:dwca>
           <pubDate>Thu, 29 Apr 2021 00:05:09 +0000</pubDate>
-          <guid isPermaLink="false">a909e61b-b5f6-4592-a699-428619b3dd55/v1.44</guid>
+          <guid isPermaLink="false">a909e61b-b5f6-4592-a699-428619b3dd55</guid>
          <!-- category used to indicate that an item is a dependency and should used to resolve linked content, and not as a source of interaction data -->
           <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
@@ -169,7 +169,7 @@
           <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=mvz_mammal</ipt:eml>
           <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=mvz_mammal</ipt:dwca>
           <pubDate>Thu, 29 Apr 2021 00:49:12 +0000</pubDate>
-          <guid isPermaLink="false">0daed095-478a-4af6-abf5-18acb790fbb2/v35.49</guid>
+          <guid isPermaLink="false">0daed095-478a-4af6-abf5-18acb790fbb2</guid>
           <!-- category used to indicate that an item is a dependency and should used to resolve linked content, and not as a source of interaction data -->
           <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
@@ -183,7 +183,7 @@
           <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=mvz_bird</ipt:eml>
           <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=mvz_bird</ipt:dwca>
           <pubDate>Thu, 29 Apr 2021 00:59:20 +0000</pubDate>
-          <guid isPermaLink="false">e3b959d6-fcbe-4a28-a166-e4a807c340a0/v43.48</guid>
+          <guid isPermaLink="false">e3b959d6-fcbe-4a28-a166-e4a807c340a0</guid>
           <!-- category used to indicate that an item is a dependency and should used to resolve linked content, and not as a source of interaction data -->
           <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
@@ -197,7 +197,7 @@
           <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=ucm_mammals</ipt:eml>
           <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=ucm_mammals</ipt:dwca>
           <pubDate>Thu, 29 Apr 2021 16:49:54 +0000</pubDate>
-          <guid isPermaLink="false">88d8974c-f762-11e1-a439-00145eb45e9a/v17.54</guid>
+          <guid isPermaLink="false">88d8974c-f762-11e1-a439-00145eb45e9a</guid>
           <!-- category used to indicate that an item is a dependency and should used to resolve linked content, and not as a source of interaction data -->
           <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
@@ -211,7 +211,7 @@
           <ipt:eml>http://digir.mcz.harvard.edu/ipt/eml.do?r=mczbase</ipt:eml>
           <ipt:dwca>http://digir.mcz.harvard.edu/ipt/archive.do?r=mczbase</ipt:dwca>
           <pubDate>Fri, 07 May 2021 15:33:59 -0500</pubDate>
-          <guid isPermaLink="false">4bfac3ea-8763-4f4b-a71a-76a6f5f243d3/v162.260</guid>
+          <guid isPermaLink="false">4bfac3ea-8763-4f4b-a71a-76a6f5f243d3</guid>
           <!-- category used to indicate that an item is a dependency and should used to resolve linked content, and not as a source of interaction data -->
           <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
@@ -224,7 +224,7 @@
           <ipt:eml>https://collections.nmnh.si.edu/ipt/eml.do?r=nmnh_extant_dwc-a</ipt:eml>
           <ipt:dwca>https://collections.nmnh.si.edu/ipt/archive.do?r=nmnh_extant_dwc-a</ipt:dwca>
           <pubDate>Wed, 28 Apr 2021 05:11:42 -0400</pubDate>
-          <guid isPermaLink="false">821cc27a-e3bb-4bc5-ac34-89ada245069d/v1.43</guid>
+          <guid isPermaLink="false">821cc27a-e3bb-4bc5-ac34-89ada245069d</guid>
           <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
 
