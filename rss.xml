@@ -229,7 +229,28 @@
           <!-- category used to indicate that an item is a dependency and should used to resolve linked content, and not as a source of interaction data -->
           <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
-
+        <item>
+          <title>Brigham Young University Life Science Museum (BYU) Mammal Collection (Arctos) - Version 1.6</title>
+          <link>http://ipt.vertnet.org:8080/ipt/resource?r=byu_mamm</link>
+          <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+          <description>Public</description>
+          <author>dbloom@vertnet.org (David Bloom)</author>
+          <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=byu_mamm</ipt:eml>
+          <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=byu_mamm</ipt:dwca>
+          <pubDate>Wed, 20 Oct 2021 21:16:58 +0000</pubDate>
+          <guid isPermaLink="false">1da75725-1eb5-4e17-b586-ffad7b783987/v1.6</guid>
+        </item>
+        <item>
+          <title>DMNS Mammal Collection (Arctos) - Version 34.55</title>
+          <link>http://ipt.vertnet.org:8080/ipt/resource?r=dmns_mamm</link>
+          <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+          <description>New data server connection</description>
+          <author>larussell@vertnet.org (Laura Russell)</author>
+          <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=dmns_mamm</ipt:eml>
+          <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=dmns_mamm</ipt:dwca>
+          <pubDate>Sat, 23 Oct 2021 00:56:04 +0000</pubDate>
+          <guid isPermaLink="false">5f3463d2-51b6-4a8a-b252-9bab4388934e/v34.55</guid>
+        </item>
     </channel>
 </rss>
 
