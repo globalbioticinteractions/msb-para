@@ -239,6 +239,7 @@
           <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=byu_mamm</ipt:dwca>
           <pubDate>Wed, 20 Oct 2021 21:16:58 +0000</pubDate>
           <guid isPermaLink="false">1da75725-1eb5-4e17-b586-ffad7b783987/v1.6</guid>
+          <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
         <item>
           <title>DMNS Mammal Collection (Arctos) - Version 34.55</title>
@@ -250,6 +251,7 @@
           <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=dmns_mamm</ipt:dwca>
           <pubDate>Sat, 23 Oct 2021 00:56:04 +0000</pubDate>
           <guid isPermaLink="false">5f3463d2-51b6-4a8a-b252-9bab4388934e/v34.55</guid>
+          <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
     </channel>
 </rss>
