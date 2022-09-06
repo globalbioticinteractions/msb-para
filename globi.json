@@ -1,6 +1,6 @@
 { 
   "format": "rss",
-  "citation": "Museum for Southern Biology (MSB) Parasite Collection",
+  "citation": "Museum for Southwestern Biology (MSB) Parasite Collection",
   "url": "rss.xml",
   "hasDependencies": true,
   "shouldResolveReferences": false
