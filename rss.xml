@@ -253,6 +253,18 @@
           <guid isPermaLink="false">5f3463d2-51b6-4a8a-b252-9bab4388934e/v34.55</guid>
           <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
+        <item>
+          <title>Museum of Southwestern Biology (MSB) Amphibian and Reptile Specimens (Arctos)</title>
+          <link>http://ipt.vertnet.org:8080/ipt/resource?r=msb_herp</link>
+          <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+          <description>New data server connection</description>
+          <author>larussell@vertnet.org (Laura Russell)</author>
+          <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=dmns_mamm</ipt:eml>
+          <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=dmns_mamm</ipt:dwca>
+          <pubDate>Sat, 23 Oct 2021 00:56:04 +0000</pubDate>
+          <guid isPermaLink="false">5f3463d2-51b6-4a8a-b252-9bab4388934e/v34.55</guid>
+          <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
+        </item>
     </channel>
 </rss>
 
