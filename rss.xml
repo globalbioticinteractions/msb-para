@@ -161,6 +161,20 @@
         </item>
         <item>
           <!-- this is a dependency of the main dataset -->
+          <title>NMU Parasite Collection (Arctos)</title>
+          <link>https://ipt.vertnet.org/resource?r=nmu_para</link>
+          <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+          <description>Updated database links</description>
+          <author>dbloom@vertnet.org (David Bloom)</author>
+          <ipt:eml>https://ipt.vertnet.org/eml.do?r=nmu_para</ipt:eml>
+          <ipt:dwca>https://ipt.vertnet.org/archive.do?r=nmu_para</ipt:dwca>
+          <pubDate>Thu, 29 Apr 2021 00:05:09 +0000</pubDate>
+          <guid isPermaLink="false">a909e61b-b5f6-4592-a699-428619b3dd55</guid>
+         <!-- category used to indicate that an item is a dependency and should used to resolve linked content, and not as a source of interaction data -->
+          <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
+        </item>
+        <item>
+          <!-- this is a dependency of the main dataset -->
           <title>MVZ Mammal Collection (Arctos)</title>
           <link>https://ipt.vertnet.org/resource?r=mvz_mammal</link>
           <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
@@ -263,6 +277,28 @@
           <ipt:dwca>https://ipt.vertnet.org/archive.do?r=msb_herp</ipt:dwca>
           <pubDate>Sat, 23 Oct 2021 00:56:04 +0000</pubDate>
           <guid isPermaLink="false">5f3463d2-51b6-4a8a-b252-9bab4388934e/v34.55</guid>
+          <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
+        </item>
+        <item>
+          <title> University of Washington Burke Museum Mammalogy Collection (Arctos)</title>
+          <link>https://ipt.vertnet.org/resource?r=uwbm_mammals</link>
+          <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+          <description>New data server connection</description>
+          <author>jebrad@uw.edu (Jeff Bradley )</author>
+          <ipt:eml>https://ipt.vertnet.org/eml.do?r=uwbm_mammals</ipt:eml>
+          <ipt:dwca>https://ipt.vertnet.org/archive.do?r=uwbm_mammals</ipt:dwca>
+          <pubDate>Sat, 23 Oct 2021 00:56:04 +0000</pubDate>
+          <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
+        </item>
+        <item>
+          <title>University of Texas at El Paso (UTEP) Herpetology (Arctos)</title>
+          <link>https://ipt.vertnet.org/resource?r=utep_herp</link>
+          <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+          <description>New data server connection</description>
+          <author>mzhuang@utep.edu (Vicky Zhuang)</author>
+          <ipt:eml>https://ipt.vertnet.org/eml.do?r=utep_herp</ipt:eml>
+          <ipt:dwca>https://ipt.vertnet.org/archive.do?r=utep_herp</ipt:dwca>
+          <pubDate>Sat, 23 Oct 2021 00:56:04 +0000</pubDate>
           <category domain="http://www.w3.org/ns/prov">http://www.w3.org/ns/prov#wasUsedBy</category>
         </item>
     </channel>
