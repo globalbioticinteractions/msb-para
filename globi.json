@@ -3,5 +3,5 @@
   "citation": "Museum for Southwestern Biology (MSB) Parasite Collection",
   "url": "rss.xml",
   "hasDependencies": true,
-  "shouldResolveReferences": false
+  "shouldResolveReferences": true
 }
